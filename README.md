@@ -56,6 +56,8 @@ To write and execute an Assembly language program for finding the cube of a give
 4. The output cube value is stored in a memory location.
 
 ## PROGRAM
+NAME - K SURYA
+REG NO - 212225060282
 ```asm
 ORG 00H
 MOV R0,#50H
